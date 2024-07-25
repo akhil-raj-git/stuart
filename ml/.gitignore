@@ -1,0 +1,20 @@
+# Python dependencies
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data files
+data/*.csv
+data/*.json
+
+# Models
+models/
+
+# Logs
+logs/
+*.log
+
+# Virtual environment
+venv/

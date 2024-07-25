@@ -1,0 +1,19 @@
+# Node.js dependencies
+node_modules/
+
+# Build output
+build/
+dist/
+
+# Logs
+logs/
+*.log
+
+# Static assets
+public/
+
+# Coverage directory used by testing tools
+coverage/
+
+# Debug logs
+npm-debug.log*
